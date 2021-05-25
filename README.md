@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [sapper](https://github.com/satpathyy/sapper)
 
-- 👨‍💻 All of my projects are available at [satpathyy.github.io/](satpathyy.github.io/)
+- 👨‍💻 All of my projects are available at https://satpathyy.github.io/
 
 - 💬 Ask me about **reactjs**
 
