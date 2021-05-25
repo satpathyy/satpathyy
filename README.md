@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [HMS Java Script](https://github.com/satpathyy/hms_new)
 
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA!
 
 - 👯 I’m looking to collaborate on [sapper](https://github.com/satpathyy/sapper)
 
