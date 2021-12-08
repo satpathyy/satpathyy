@@ -1,39 +1,22 @@
 <h1 align="center">Hi 👋, I'm Debashis</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satpathyy&label=Profile%20views&color=0e75b6&style=flat" alt="satpathyy" /> </p>
+- 🌱 I’m currently learning **a bit too much to update this section daily**
 
+- 👯 I’m looking to collaborate on **anything interesting enough**
 
-
-- 🔭 I’m currently working on [HMS Java Script](https://github.com/satpathyy/hms_new)
-
-- 🌱 I’m currently learning DSA!
-
-- 👯 I’m looking to collaborate on [sapper](https://github.com/satpathyy/sapper)
-
-- 👨‍💻 All of my projects are available at https://satpathyy.github.io/
-
-- 💬 Ask me about **reactjs**
+- 💬 Ask me about **React Native, Flutter, Android dev, VS Code, Web dev**
 
 - 📫 How to reach me **debashis.satpathy49@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/debashis-satpathy-532736113/](https://www.linkedin.com/in/debashis-satpathy-532736113/)
+- 📄 Know about my experiences [My LinkedIn](https://www.linkedin.com/in/pathetic-geek/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/satpathyy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="satpathyy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/debashis satpathy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="debashis satpathy" height="30" width="40" /></a>
-<a href="https://instagram.com/kushandwaffles" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushandwaffles" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/satpathyy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="satpathyy" height="30" width="40" /></a>
+- ⚡ Fun fact **I absolutely hate windows**
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://codepen.io/patheticgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="patheticgeek" height="30" width="40" /></a>
+<a href="https://twitter.com/pathetic_geek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pathetic_geek" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pathetic-geek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathetic-geek" height="30" width="40" /></a>
+<a href="https://codesandbox.com/patheticgeek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="patheticgeek" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satpathyy&show_icons=true&locale=en&layout=compact" alt="satpathyy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satpathyy&show_icons=true&locale=en" alt="satpathyy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satpathyy&" alt="satpathyy" /></p>
