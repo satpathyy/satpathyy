@@ -5,11 +5,9 @@
 
 - 👯 I’m looking to collaborate on **anything interesting enough**
 
-- 👨‍💻 All of my projects are available at [https://satpathyy.github.io/](https://satpathyy.github.io/)
-
 - 💬 Ask me about **React Js, Flutter, Android dev, VS Code, Web dev**
 
-- 📄 Know about my experiences [My LinkedIn](https://www.linkedin.com/in/debashis-satpathy-532736113/)
+- 📄 Know about my experiences [Portfolio](https://bold.pro/my/debashis-portfolio)
 
 - 📫 How to reach me **debashis.satpathy49@gmail.com**
 
