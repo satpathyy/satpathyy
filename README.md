@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Debashis</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate data engineer from India</h3>
 
 - 🔭 I’m currently working on **a bit too much to update this section daily**
 
 - 👯 I’m looking to collaborate on **anything interesting enough**
 
-- 💬 Ask me about **React Js, Flutter, Android dev, VS Code, Web dev**
-
-- 📄 Know about my experiences [Portfolio](https://bold.pro/my/debashis-portfolio)
+- 💬 Ask me about **Azure Databricks, Python, Pyspark, SQL, Generative AI**
 
 - 📫 How to reach me **debashis.satpathy49@gmail.com**
 
